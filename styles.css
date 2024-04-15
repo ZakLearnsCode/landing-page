@@ -40,6 +40,16 @@ button {
     text-align: center;
 }
 
+.part-0 {
+    display: flex;
+    justify-content: center;
+    padding: 2em;
+    background-color: rgb(25, 33, 44);
+    color: #e5e7eb;
+    font-size: 40px;
+}
+
+
 .part-1 p {
     font-size: 18px;
     color: #f9faf8;
@@ -113,6 +123,7 @@ a {
     text-align: center;
     word-wrap: wrap;
     width: 150px;
+    font-weight: bold;
 }
 
 .part-3 {
